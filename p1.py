@@ -1,1 +1,1 @@
-print("core-module REINSERT")
+print("core-module UPDATE2")

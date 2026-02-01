@@ -1,1 +1,1 @@
-print("core-module UPDATE2")
+print("core-module FIX2")

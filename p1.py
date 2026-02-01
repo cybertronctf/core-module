@@ -1,1 +1,1 @@
-print("core-module INSERT")
+print("core-module UPDATE")
